@@ -1,0 +1,10 @@
+
+
+create an editor with undo functionality
+
+to have it reusable and extensible use memento pattern
+
+if we map memento terminologies:
+- editor is called originator
+- states of editor will be stored in memento
+- history of previous states is called careTaker
